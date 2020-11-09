@@ -7,8 +7,7 @@ var gameState = "play"
 
 function preload()
 {
-  
-  hi
+ 
   towerImg = loadImage("tower.png");
   doorImg = loadImage("door.png");
   climberImg = loadImage("climber.png");
